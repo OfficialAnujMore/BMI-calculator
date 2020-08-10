@@ -9,8 +9,5 @@
 
 
 
-<video width="320" height="240" controls>
-  <source src="github_images/bmi.gif" type="video/mp4">
-</video>
-
+![bmi](https://user-images.githubusercontent.com/53031645/89752824-77cc3080-daf3-11ea-898a-f34d8585c63c.gif)
 
