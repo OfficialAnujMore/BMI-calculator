@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "893113414426",
+    "firebase_url": "https://bmifirebaseproject-ee290.firebaseio.com",
+    "project_id": "bmifirebaseproject-ee290",
+    "storage_bucket": "bmifirebaseproject-ee290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893113414426:android:de7160898f8b454d",
+        "android_client_info": {
+          "package_name": "com.example.anujmore.bmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893113414426-ms67ces7q6321aaa6drdv19ujslejn01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anujmore.bmi",
+            "certificate_hash": "17382946109b84ba7d79c28eb729f960eb60e630"
+          }
+        },
+        {
+          "client_id": "893113414426-s7ari37547ara6o72olhrt5jbj4vp3g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0bNmnZ47WwcXmLcg1RdGrnSTJ99jZ5mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893113414426-s7ari37547ara6o72olhrt5jbj4vp3g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
